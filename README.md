@@ -227,13 +227,6 @@ python Backend/main.py
 
 ---
 
-# 👩‍💻 Development Team
-
-Graduation Project
-
-Faculty of Computers and Artificial Intelligence
-
----
 
 # 📄 License
 
